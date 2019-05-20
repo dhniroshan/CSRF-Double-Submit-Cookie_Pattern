@@ -29,4 +29,6 @@ http://localhost
 
 After you have to point to folder that you cloned project folder.
 
+Login credentials: username - admin  Password - admin 
+
 You can check more detail on this blog post : https://dhanushkaatimorathanna.wordpress.com/2019/05/17/csrf-double-submit-cookies-pattern/
